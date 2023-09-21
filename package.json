@@ -1,0 +1,12 @@
+{
+  "name": "voorbeeld_scss",
+  "version": "1.0.0",
+  "description": "Dit project wordt gebruikt om de voorbeelden in de cursus uit te werken. De volledige oplossing kan je terugvinden in de `oplossing` branch.",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
