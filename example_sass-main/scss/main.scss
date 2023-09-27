@@ -1,0 +1,20 @@
+$primary-color: #0000FF;
+$secondary-color: #add8e6;
+$tertiary-color: #00008b;
+$font-lg: font-lg;
+$font-md: font-md;
+$font-sm: font-sm;
+
+.nav{
+  background-color: $primary-color;
+}
+.banner{
+  font-size: $font-lg;
+  background-color: $secondary-color;
+  justify-content: center;
+}
+.footer h3{
+  font-size: $font-md;
+  color: $primary-color;
+  justify-content: center;
+}
