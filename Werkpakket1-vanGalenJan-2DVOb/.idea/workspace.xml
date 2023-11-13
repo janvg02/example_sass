@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="686de432-7f20-4377-85c9-fb84adc173a2" name="Changes" comment="" />
+    <list default="true" id="686de432-7f20-4377-85c9-fb84adc173a2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_components.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_components.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +42,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/jan/Desktop/Webstorm/Werkpakket1-vanGalenJan-2DVOb&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -67,7 +72,9 @@
       <workItem from="1695990658787" duration="1354000" />
       <workItem from="1696362601633" duration="747000" />
       <workItem from="1696836028396" duration="3328000" />
-      <workItem from="1696841420009" duration="89034000" />
+      <workItem from="1696841420009" duration="91545000" />
+      <workItem from="1699872696844" duration="25000" />
+      <workItem from="1699872752240" duration="14000" />
     </task>
     <servers />
   </component>

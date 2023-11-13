@@ -353,6 +353,7 @@
   color: #3b83bd;
   font-size: xx-large;
   margin-bottom: 2%;
+  margin-top: 10%;
   align-items: center;
 }
 .login-body .login-main .login-profile .login-gegevens .login-text {
@@ -363,9 +364,6 @@
   vertical-align: center;
   flex-direction: column;
   padding-bottom: 20%;
-}
-.login-body .login-main .login-profile .login-gegevens .login-text .login-title {
-  margin-top: 10%;
 }
 .login-body .login-main .login-profile .login-gegevens .login-text #user-name, .login-body .login-main .login-profile .login-gegevens .login-text #password, .login-body .login-main .login-profile .login-gegevens .login-text #e-mail-confirm {
   width: 50%;

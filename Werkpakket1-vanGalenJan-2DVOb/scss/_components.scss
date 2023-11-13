@@ -325,6 +325,7 @@
           color: $color-primary;
           font-size: xx-large;
           margin-bottom: 2%;
+          margin-top: 10%;
           align-items: center;
         }
         .login-text{
@@ -333,9 +334,7 @@
           @include flexLayout;
           flex-direction: column;
           padding-bottom: 20%;
-          .login-title{
-            margin-top: 10%;
-          }
+
           #user-name, #password, #e-mail-confirm{
             width: 50%;
             margin-bottom: 5%;
